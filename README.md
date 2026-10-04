@@ -23,6 +23,6 @@ Focusing on Embedded Systems, Circuit Design, Signal Processing, and Industrial 
 ---
 
 ### 📫 Connect with Me
-- 📧 **Email:** quy.nguyen.eng@gmail.com
+- 📧 **Email:** quynt.automation@gmail.com
 - 💼 **LinkedIn:** [Thien Quy Nguyen](https://www.linkedin.com/in/thien-quy-nguyen-a91732440)
 - 🎓 **University:** Vietnam Aviation Academy (VAA)
